@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node index.ts",
-    "start:countWords": "ts-node countWords.ts",
+    "twoSum": "ts-node twoSum.ts",
+    "countWords": "ts-node countWords.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

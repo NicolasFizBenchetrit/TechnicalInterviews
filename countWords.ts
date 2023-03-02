@@ -1,7 +1,6 @@
 //input: string 
-//output: [palabra: nºapariciones]
-
-//ejemplo: "hola hola bienvenidos" => {"Hola": 2{}, {"bienvenidos": 1}
+//output: [word: times]
+//ejemplo: "hola hola bienvenidos" => {"Hola": 2, {"bienvenidos": 1}
 
 
 function countWords(input: string): any {
