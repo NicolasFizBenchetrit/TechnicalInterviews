@@ -17,4 +17,4 @@ const nums = [3,2,4]
 const target = 6
 
 const res = twoSum(nums, target)
-console.log('RESULTADO BOLUDIN MARICON => ', res)
+console.log('Result => ', res)
